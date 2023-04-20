@@ -1,6 +1,6 @@
 <h3 align="center"<b><i>Hello World</i></b></h3>
 
-<p align="center"># 💫 About Me:</p>
+<h1 align="center">💫 About Me:</h1>
 
 <p align="center">Olá! Meu nome é <b>Mikael</b>, estou aprendendo programação e por aqui você irá encontrar alguns dos meus projetos! ;) </p>
 
@@ -8,14 +8,16 @@ Estudante de Ciência da Computação.<br>Atualmente estudando Python e Java.<br
 
 
 
-<p align="center">## 🌐 Socials:</p>
+<h2 align="center">🌐 Socials:</h1>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikael.gois) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikael-gois) 
 
 
-<p align="center"># 💻 Tech Stack:</p>
+<h1 align="center">💻 Tech Stack:</h1>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<p align="center"># 📊 GitHub Stats:</p>
+<h1 align="center">📊 GitHub Stats:</h1>
 
 <div align="center">
 <a href="https://github.com/MikaelGois01">
@@ -26,7 +28,8 @@ Estudante de Ciência da Computação.<br>Atualmente estudando Python e Java.<br
 </div>
 
 
-<p align="center">## 🏆 GitHub Trophies</p>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=MikaelGois01&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
