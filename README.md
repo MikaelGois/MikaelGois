@@ -1,12 +1,10 @@
-<h3 align="center"<b><i>Hello World</i></b></h3>
-
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center"<b><i>Hello World</i></b></h1>
 
 <p align="center">Olá! Meu nome é <b>Mikael</b>, estou aprendendo programação e por aqui você irá encontrar alguns dos meus projetos! ;) </p>
 
 <p>Atualmente sou discente no curso de Ciência da Computação - IFS, e estou estudando Python e Java. Tenho interesse em Inteligência Artificial e faço umas modelagens no Blender.</p>
 
-<h1 align="center">💻 Tech Stack:</h1>
+<h2 align="center">💻 Tech Stack:</h2>
 
 <div align="center">
   
@@ -14,7 +12,7 @@
   
 </div>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+<h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
 <a href="https://github.com/MikaelGois01">
