@@ -18,9 +18,9 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
-<a href="https://github.com/MikaelGois01">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MikaelGois01&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="max-width:100%;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelGois01&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width:100%;">
+<a href="https://github.com/MikaelGois">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="max-width:100%;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelGois&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width:100%;">
 </a>
 </div>
 
