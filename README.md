@@ -3,9 +3,9 @@
   </a>
 </h1>
 
-<p align="center">Olá! Meu nome é <b>Mikael</b>, sou discente no curso de Ciência da Computação - IFS e por aqui você irá encontrar alguns dos meus projetos ;) </p>
+<p align="center">Olá! Meu nome é <b>Mikael</b>, sou discente no curso de Ciência da Computação - IFS e por aqui você irá encontrar alguns dos meus projetos. ;) </p>
 
-<p align="center">Atualment estou estudando Java, porém ja codei um pouco em Python e JS. Tenho interesse em Inteligência Artificial e faço umas modelagens no Blender.</p>
+<p align="center">Atualmente estou estudando Java, porém já codei um pouco em Python e JS. Tenho interesse em Inteligência Artificial e faço umas modelagens no Blender. Devido ao meu interesse por diferentes tópicos de tecnologia, é possível que apareça outras coisas além de código por aqui.</p>
 
 <h2 align="center">💻 Tech Stack:</h2>
 
