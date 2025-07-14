@@ -3,7 +3,7 @@
   </a>
 </h1>
 
-<p align="center">Olá! Meu nome é <b>Mikael</b>, sou discente no curso de Ciência da Computação - IFS e por aqui você irá encontrar alguns dos meus projetos! ;) </p>
+<p align="center">Olá! Meu nome é <b>Mikael</b>, sou discente no curso de Ciência da Computação - IFS e por aqui você irá encontrar alguns dos meus projetos ;) </p>
 
 <p align="center">Atualment estou estudando Java, porém ja codei um pouco em Python e JS. Tenho interesse em Inteligência Artificial e faço umas modelagens no Blender.</p>
 
