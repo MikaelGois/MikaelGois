@@ -1,8 +1,11 @@
-<h1 align="center"<b><i>Hello World</i></b></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+World!;Ol%C3%A1%2C+mundo!;%C2%A1Hola+Mundo!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C%EF%BC%81" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="center">Olá! Meu nome é <b>Mikael</b>, estou aprendendo programação e por aqui você irá encontrar alguns dos meus projetos! ;) </p>
+<p align="center">Olá! Meu nome é <b>Mikael</b>, sou discente no curso de Ciência da Computação - IFS e por aqui você irá encontrar alguns dos meus projetos! ;) </p>
 
-<p>Atualmente sou discente no curso de Ciência da Computação - IFS, e estou estudando Python e Java. Tenho interesse em Inteligência Artificial e faço umas modelagens no Blender.</p>
+<p align="center">Atualment estou estudando Java, porém ja codei um pouco em Python e JS. Tenho interesse em Inteligência Artificial e faço umas modelagens no Blender.</p>
 
 <h2 align="center">💻 Tech Stack:</h2>
 
